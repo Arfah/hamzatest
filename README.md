@@ -45,4 +45,4 @@ durable draft; Claude.ai remains the place a skill actually takes effect.
 
 | Skill | Claude.ai `updatedAt` at time of import |
 |---|---|
-| `viral-hooks-content-strategy` | 2026-06-11 |
+| `viral-hooks-content-strategy` | 2026-06-11 (live version predates the Lauren Dudley import) |
